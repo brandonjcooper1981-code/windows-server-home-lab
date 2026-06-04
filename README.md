@@ -168,12 +168,6 @@ C:\Shares\IT
 C:\Shares\Sales
 ```
 
-### Department Shares
-
-![Department Shares](screenshots/06-file-server-shares.png)
-
----
-
 ## Security Groups
 
 Created:
@@ -186,7 +180,7 @@ Sales_RW
 
 ### Security Groups
 
-![Security Groups](screenshots/07-security-groups.png)
+![Security Groups](screenshots/06-security-groups.png)
 
 ---
 
@@ -196,7 +190,7 @@ Configured folder-level permissions using Active Directory groups.
 
 ### IT Folder Permissions
 
-![NTFS Permissions](screenshots/08-ntfs-permissions.png)
+![NTFS Permissions](screenshots/07-ntfs-permissions.png)
 
 ---
 
@@ -206,7 +200,7 @@ Configured network shares for department access.
 
 ### Share Permissions
 
-![Share Permissions](screenshots/09-share-permissions.png)
+![Share Permissions](screenshots/08-share-permissions.png)
 
 ---
 
@@ -216,11 +210,11 @@ Validated successful and denied access scenarios.
 
 ### IT Share Access
 
-![IT Share Access](screenshots/10-share-access-success.png)
+![IT Share Access](screenshots/09-share-access-success.png)
 
 ### HR Share Access Denied
 
-![HR Access Denied](screenshots/11-share-access-denied.png)
+![HR Access Denied](screenshots/10-share-access-denied.png)
 
 ---
 
@@ -242,7 +236,7 @@ DHCP role installed and authorized.
 
 ### DHCP Role
 
-![DHCP Installed](screenshots/12-dhcp-role-installed.png)
+![DHCP Installed](screenshots/11-dhcp-role-installed.png)
 
 ---
 
@@ -256,7 +250,7 @@ Created scope:
 
 ### DHCP Scope
 
-![DHCP Scope](screenshots/13-dhcp-scope-created.png)
+![DHCP Scope](screenshots/12-dhcp-scope-created.png)
 
 ---
 
@@ -272,7 +266,7 @@ Configured:
 
 ### DHCP Options
 
-![DHCP Options](screenshots/14-dhcp-scope-options.png)
+![DHCP Options](screenshots/13-dhcp-scope-options.png)
 
 ---
 
@@ -282,7 +276,7 @@ CLIENT01 received DHCP configuration.
 
 ### DHCP Lease
 
-![Client Lease](screenshots/15-client01-dhcp-ipconfig.png)
+![Client Lease](screenshots/14-client01-dhcp-ipconfig.png)
 
 ---
 
@@ -292,7 +286,7 @@ Verified in DHCP console.
 
 ### Lease Verification
 
-![Address Lease](screenshots/16-dhcp-address-lease.png)
+![Address Lease](screenshots/15-dhcp-address-lease.png)
 
 ---
 
@@ -302,7 +296,7 @@ Identified incorrect DNS server entries being distributed by DHCP.
 
 ### DNS Misconfiguration
 
-![DNS Issue](screenshots/17-dhcp-dns-misconfiguration.png)
+![DNS Issue](screenshots/16-dhcp-dns-misconfiguration.png)
 
 ---
 
@@ -316,7 +310,7 @@ Updated DHCP Option 006 to use:
 
 ### DNS Fixed
 
-![DNS Fixed](screenshots/18-dhcp-dns-fixed.png)
+![DNS Fixed](screenshots/17-dhcp-dns-fixed.png)
 
 ---
 
@@ -330,7 +324,7 @@ nslookup lab.local
 
 ### DNS Resolution
 
-![DNS Validation](screenshots/19-nslookup-success.png)
+![DNS Validation](screenshots/18-nslookup-success.png)
 
 ---
 
