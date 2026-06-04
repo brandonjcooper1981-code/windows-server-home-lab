@@ -210,11 +210,11 @@ Validated successful and denied access scenarios.
 
 ### IT Share Access
 
-![IT Share Access](screenshots/09-share-access-success.png)
+![IT Share Access](screenshots/09-share-success.png)
 
 ### HR Share Access Denied
 
-![HR Access Denied](screenshots/10-share-access-denied.png)
+![HR Access Denied](screenshots/10-share-denied.png)
 
 ---
 
