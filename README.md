@@ -200,7 +200,7 @@ Configured network shares for department access.
 
 ### Share Permissions
 
-![Share Permissions](screenshots/08-share-permissions.png)
+![Share Permissions](screenshots/08-it-share-permissions.png)
 
 ---
 
@@ -210,11 +210,11 @@ Validated successful and denied access scenarios.
 
 ### IT Share Access
 
-![IT Share Access](screenshots/09-share-success.png)
+![IT Share Access](screenshots/09-it-share-success.png)
 
 ### HR Share Access Denied
 
-![HR Access Denied](screenshots/10-share-denied.png)
+![HR Access Denied](screenshots/10-hr-access-denied.png)
 
 ---
 
